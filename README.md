@@ -1,5 +1,5 @@
 # 💼 Data Analyst Portfolio Website
-
+# https://aditya-portfolio-olive-mu.vercel.app/
 A modern, interactive portfolio website showcasing my work, skills, and projects as a **Junior Data Analyst**.
 Built with a focus on clean UI, real-world projects, and an engaging developer-style terminal interface.
 
@@ -86,10 +86,10 @@ This portfolio is designed to:
 
 ## 📬 Contact
 
-* **LinkedIn:** (Add your link here)
-* **GitHub:** (Add your link here)
-* **Email:** (Add your email here)
-
+* **LinkedIn:** https://www.linkedin.com/in/aditya-kaushik-patel/
+* **GitHub:** https://github.com/adityapatel14
+* **Email:** akp2k4@gmail.com
+* **Porfolio Live:** https://aditya-portfolio-olive-mu.vercel.app/
 ---
 
 ## ⚡ Future Improvements
