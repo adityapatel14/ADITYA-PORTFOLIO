@@ -1,7 +1,7 @@
 // Navbar component
 import { useState, useEffect } from 'react';
 
-const CV_URL       = 'https://drive.google.com/file/d/1OrcIPihckosaWd-u7rlbgnEaeU1usrzI/view?usp=sharing';
+const CV_URL       = 'https://drive.google.com/file/d/1o-znboQuIjtPvOgKPgs5D4RxrzuO4738/view';
 const LINKEDIN_URL = 'https://www.linkedin.com/in/aditya-kaushik-patel/';
 const GITHUB_URL   = 'https://github.com/adityapatel14/';
 

@@ -2,7 +2,7 @@
 import { useState, useEffect } from 'react';
 import Terminal from './Terminal';
 
-const CV_URL = 'https://drive.google.com/file/d/1OrcIPihckosaWd-u7rlbgnEaeU1usrzI/view?usp=sharing';
+const CV_URL = 'https://drive.google.com/file/d/1o-znboQuIjtPvOgKPgs5D4RxrzuO4738/view';
 
 const GLOBAL_KPI = [
   { label: 'Projects Completed',  value: '6+',   icon: '◈' },
